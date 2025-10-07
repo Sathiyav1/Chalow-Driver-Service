@@ -43,3 +43,4 @@ GET http://localhost:8082/drivers/actuator/health
 Notes
 - The project contains only minimal DTOs, entities and service stubs. Replace the stubs in `service.impl` with real implementations from the main `rideshare-api` project as needed.
 - Application properties are in `src/main/resources/application.properties`.
+# Chalow-Driver-Service
